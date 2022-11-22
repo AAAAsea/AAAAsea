@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning WebRTC
 - 📫 sxj2003@163.com
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAAsea)](https://github.com/AAAAsea/github-readme-stats)
-[![Visitor Count](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAAsea)](https://github.com/AAAAsea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAAsea&layout=compact)](https://github.com/AAAAsea/github-readme-stats)
 ![AAAAsea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAAAsea&show_icons=true&theme=tokyonight)
